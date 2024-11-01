@@ -1,0 +1,10 @@
+.sfywp-settings .form-table td > h4:first-child {
+  margin-top: 6px;
+}
+.sfywp-settings .form-table td h4 {
+  margin: 10px 0 4px;
+  color: #666;
+}
+.sfywp-settings .align-input {
+  vertical-align: baseline;
+}

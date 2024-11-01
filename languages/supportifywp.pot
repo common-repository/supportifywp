@@ -1,0 +1,506 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: SupportifyWP\n"
+"POT-Creation-Date: 2017-06-18 12:45+0200\n"
+"PO-Revision-Date: 2017-06-10 10:15+0200\n"
+"Last-Translator: flowdee <coder@flowdee.de>\n"
+"Language-Team: flowdee <coder@flowdee.de>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: supportifywp.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;"
+"_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"X-Poedit-SearchPathExcluded-1: node_modules\n"
+"X-Poedit-SearchPathExcluded-2: assets\n"
+"X-Poedit-SearchPathExcluded-3: public\n"
+
+#: includes/admin/class.dashboard.php:14
+msgid "Coming soon!"
+msgstr ""
+
+#: includes/admin/class.settings.php:38 includes/admin/class.settings.php:39
+#: supportifywp.php:75
+msgid "Settings"
+msgstr ""
+
+#: includes/admin/class.settings.php:59
+msgid "Quickstart guide"
+msgstr ""
+
+#: includes/admin/class.settings.php:67 includes/admin/pages.php:40
+#: includes/article-post-types.php:30
+msgid "Articles"
+msgstr ""
+
+#: includes/admin/class.settings.php:74
+msgid "Front page"
+msgstr ""
+
+#: includes/admin/class.settings.php:83
+msgid "Archives"
+msgstr ""
+
+#: includes/admin/class.settings.php:91
+msgid "Single articles"
+msgstr ""
+
+#: includes/admin/class.settings.php:99
+msgid "Other"
+msgstr ""
+
+#: includes/admin/class.settings.php:108
+msgid "General"
+msgstr ""
+
+#: includes/admin/class.settings.php:115
+msgid "Custom CSS"
+msgstr ""
+
+#: includes/admin/class.settings.php:124
+msgid "Custom HTML Wrapper"
+msgstr ""
+
+#: includes/admin/class.settings.php:178
+msgid "Quickstart Guide"
+msgstr ""
+
+#: includes/admin/class.settings.php:205
+msgid "Page"
+msgstr ""
+
+#: includes/admin/class.settings.php:208
+msgid "Please select..."
+msgstr ""
+
+#: includes/admin/class.settings.php:214
+#, php-format
+msgid "Front page url will be: %1$s"
+msgstr ""
+
+#: includes/admin/class.settings.php:218
+msgid "Articles per category"
+msgstr ""
+
+#: includes/admin/class.settings.php:221
+msgid "Maximum amount of articles to be shown inside a category."
+msgstr ""
+
+#: includes/admin/class.settings.php:224 includes/admin/class.settings.php:279
+msgid "Order articles by"
+msgstr ""
+
+#: includes/admin/class.settings.php:239 includes/admin/class.settings.php:294
+msgid "Excerpt"
+msgstr ""
+
+#: includes/admin/class.settings.php:242
+msgid "Show article excerpt on front page page"
+msgstr ""
+
+#: includes/admin/class.settings.php:263 includes/admin/class.settings.php:310
+msgid "Permalinks"
+msgstr ""
+
+#: includes/admin/class.settings.php:268
+#, php-format
+msgid "Category url will be like: %1$s"
+msgstr ""
+
+#: includes/admin/class.settings.php:271
+msgid "Hide archive description"
+msgstr ""
+
+#: includes/admin/class.settings.php:274
+msgid "Check in order to hide the output of the archive description"
+msgstr ""
+
+#: includes/admin/class.settings.php:276
+msgid "This option only applies to the output made by this plugin."
+msgstr ""
+
+#: includes/admin/class.settings.php:297
+msgid "Show article excerpt in category archives"
+msgstr ""
+
+#: includes/admin/class.settings.php:314
+#, php-format
+msgid "Single article url will be like: %1$s"
+msgstr ""
+
+#: includes/admin/class.settings.php:326 includes/admin/class.settings.php:334
+msgid "None"
+msgstr ""
+
+#: includes/admin/class.settings.php:327
+msgid "Right"
+msgstr ""
+
+#: includes/admin/class.settings.php:328
+msgid "Left"
+msgstr ""
+
+#: includes/admin/class.settings.php:335
+msgid "Book"
+msgstr ""
+
+#: includes/admin/class.settings.php:336
+msgid "Paper with text"
+msgstr ""
+
+#: includes/admin/class.settings.php:337
+msgid "Paper with text (light)"
+msgstr ""
+
+#: includes/admin/class.settings.php:347
+msgid "Breadcrumb"
+msgstr ""
+
+#: includes/admin/class.settings.php:350
+msgid "Check in order to show a breadcrumb on archives and single articles"
+msgstr ""
+
+#: includes/admin/class.settings.php:353
+msgid "Sidebar"
+msgstr ""
+
+#: includes/admin/class.settings.php:355
+msgid "The sidebar might be shown on archive and single article posts."
+msgstr ""
+
+#: includes/admin/class.settings.php:365
+msgid "Article Icon"
+msgstr ""
+
+#: includes/admin/class.settings.php:374
+msgid "Excerpt Length"
+msgstr ""
+
+#: includes/admin/class.settings.php:377
+msgid "Maximum amount of words to be included."
+msgstr ""
+
+#: includes/admin/class.settings.php:380
+msgid "Hide titles"
+msgstr ""
+
+#: includes/admin/class.settings.php:383
+msgid ""
+"Check in order to hide page/post title on front page, archives and single "
+"articles"
+msgstr ""
+
+#: includes/admin/class.settings.php:385
+msgid ""
+"This option only makes sense in case your theme is displaying the titles e."
+"g. in the header."
+msgstr ""
+
+#: includes/admin/class.settings.php:399
+msgid "Output custom CSS styles"
+msgstr ""
+
+#: includes/admin/class.settings.php:404
+msgid ""
+"Please don't use the <code>style</code> tag. Simply paste you CSS "
+"declarations as follows: <code>.sfywp .sfywp-articles-category { background-"
+"color: #333; }</code>"
+msgstr ""
+
+#: includes/admin/class.settings.php:417
+msgid ""
+"Only in case your theme does not support Supportify by default, you can add "
+"custom HTML markup before and after the plugin outputs its content."
+msgstr ""
+
+#: includes/admin/class.settings.php:422
+msgid "Output custom content wrapper HTML"
+msgstr ""
+
+#: includes/admin/class.settings.php:425 includes/admin/class.settings.php:428
+msgid "<u>Before</u> SupportifyWP content"
+msgstr ""
+
+#: includes/admin/class.settings.php:444
+msgid "You do not have sufficient permissions to access this page."
+msgstr ""
+
+#: includes/admin/class.settings.php:451
+msgid "SupportifyWP - Settings"
+msgstr ""
+
+#: includes/admin/notices.php:24
+msgid "Settings updated."
+msgstr ""
+
+#: includes/admin/notices.php:29
+#, php-format
+msgid ""
+"Please <a href=\"%s\">save your permalinks</a> in order to use your new "
+"slugs."
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+#: includes/admin/pages.php:19 includes/admin/pages.php:20
+msgid "SupportifyWP"
+msgstr ""
+
+#: includes/admin/pages.php:30 includes/admin/pages.php:31
+msgid "Dashboard"
+msgstr ""
+
+#: includes/admin/pages.php:39
+msgid "All Articles"
+msgstr ""
+
+#: includes/admin/pages.php:47 includes/article-post-types.php:90
+msgid "All Categories"
+msgstr ""
+
+#: includes/admin/pages.php:48 includes/article-post-types.php:89
+msgid "Categories"
+msgstr ""
+
+#: includes/article-functions.php:213 includes/article-functions.php:229
+msgid "Title"
+msgstr ""
+
+#: includes/article-functions.php:214 includes/article-functions.php:232
+msgid "Random"
+msgstr ""
+
+#: includes/article-functions.php:230
+msgid "Date"
+msgstr ""
+
+#: includes/article-functions.php:231
+msgid "Views"
+msgstr ""
+
+#: includes/article-post-types.php:26
+msgctxt "Post Type General Name"
+msgid "Articles"
+msgstr ""
+
+#: includes/article-post-types.php:27
+msgctxt "Post Type Singular Name"
+msgid "Article"
+msgstr ""
+
+#: includes/article-post-types.php:28 includes/article-post-types.php:48
+msgid "Article"
+msgstr ""
+
+#: includes/article-post-types.php:29
+msgid "Parent Article:"
+msgstr ""
+
+#: includes/article-post-types.php:31
+msgid "Add New Article"
+msgstr ""
+
+#: includes/article-post-types.php:32
+msgid "Add New"
+msgstr ""
+
+#: includes/article-post-types.php:33
+msgid "New Article"
+msgstr ""
+
+#: includes/article-post-types.php:34
+msgid "Edit Article"
+msgstr ""
+
+#: includes/article-post-types.php:35
+msgid "Update Article"
+msgstr ""
+
+#: includes/article-post-types.php:36
+msgid "View Article"
+msgstr ""
+
+#: includes/article-post-types.php:37
+msgid "Search Article"
+msgstr ""
+
+#: includes/article-post-types.php:38
+msgid "Not found"
+msgstr ""
+
+#: includes/article-post-types.php:39
+msgid "Not found in Trash"
+msgstr ""
+
+#: includes/article-post-types.php:87
+msgctxt "Taxonomy General Name"
+msgid "Categories"
+msgstr ""
+
+#: includes/article-post-types.php:88
+msgctxt "Taxonomy Singular Name"
+msgid "Category"
+msgstr ""
+
+#: includes/article-post-types.php:91
+msgid "Parent Category"
+msgstr ""
+
+#: includes/article-post-types.php:92
+msgid "Parent Category:"
+msgstr ""
+
+#: includes/article-post-types.php:93
+msgid "New Category Name"
+msgstr ""
+
+#: includes/article-post-types.php:94
+msgid "Add New Category"
+msgstr ""
+
+#: includes/article-post-types.php:95
+msgid "Edit Category"
+msgstr ""
+
+#: includes/article-post-types.php:96
+msgid "Update Category"
+msgstr ""
+
+#: includes/article-post-types.php:97
+msgid "View Category"
+msgstr ""
+
+#: includes/article-post-types.php:98
+msgid "Separate categories with commas"
+msgstr ""
+
+#: includes/article-post-types.php:99
+msgid "Add or remove categories"
+msgstr ""
+
+#: includes/article-post-types.php:100
+msgid "Choose from the most used"
+msgstr ""
+
+#: includes/article-post-types.php:101
+msgid "Popular Categories"
+msgstr ""
+
+#: includes/article-post-types.php:102
+msgid "Search Categories"
+msgstr ""
+
+#: includes/article-post-types.php:103
+msgid "Not Found"
+msgstr ""
+
+#: includes/functions.php:92
+msgid "Ascending "
+msgstr ""
+
+#: includes/functions.php:93
+msgid "Descending"
+msgstr ""
+
+#: includes/post-views.php:52
+#, php-format
+msgid "%d view"
+msgid_plural "%d views"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/sidebars.php:15
+msgid "Supportifywp: Articles"
+msgstr ""
+
+#: includes/sidebars.php:17
+msgid "Widgets in this area will be shown on all article pages if enabled."
+msgstr ""
+
+#: includes/template-functions.php:426
+msgid "View all"
+msgstr ""
+
+#: includes/widgets.php:33
+msgid "All categories"
+msgstr ""
+
+#: includes/widgets/class.article-category-widget.php:13
+msgid "SupportifyWP: Article Categories"
+msgstr ""
+
+#: includes/widgets/class.article-category-widget.php:14
+msgid "Listing article categories."
+msgstr ""
+
+#: includes/widgets/class.article-category-widget.php:59
+#: includes/widgets/class.article-widget.php:65
+msgid "New title"
+msgstr ""
+
+#: includes/widgets/class.article-category-widget.php:66
+#: includes/widgets/class.article-widget.php:75
+msgid "Title:"
+msgstr ""
+
+#: includes/widgets/class.article-category-widget.php:71
+#: includes/widgets/class.article-widget.php:94
+msgid "Order by:"
+msgstr ""
+
+#: includes/widgets/class.article-category-widget.php:80
+#: includes/widgets/class.article-widget.php:103
+msgid "Order:"
+msgstr ""
+
+#: includes/widgets/class.article-widget.php:13
+msgid "SupportifyWP: Articles"
+msgstr ""
+
+#: includes/widgets/class.article-widget.php:14
+msgid "Listing articles."
+msgstr ""
+
+#: includes/widgets/class.article-widget.php:80
+msgid "Amount of items:"
+msgstr ""
+
+#: includes/widgets/class.article-widget.php:85
+msgid "Category:"
+msgstr ""
+
+#: templates/articles-front-page.php:45
+#, php-format
+msgid "%d article"
+msgid_plural "%d articles"
+msgstr[0] ""
+msgstr[1] ""
+
+#: templates/widgets/article-categories.php:29
+msgid "No categories found."
+msgstr ""
+
+#: templates/widgets/articles.php:29
+msgid "No articles found."
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Create a powerful and customizable documentation or knowledgebase for your "
+"business or product."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "flowdee"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://flowdee.de"
+msgstr ""
